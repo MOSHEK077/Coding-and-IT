@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Olympic Guru logo without olympic symbol">
+  <rect width="1024" height="1024" fill="#ffffff" />
+
+  <!-- Stylized G mark (black) -->
+  <g transform="translate(512 460)">
+    <text
+      x="0"
+      y="0"
+      text-anchor="middle"
+      dominant-baseline="middle"
+      font-family="Arial Black, Montserrat, Poppins, sans-serif"
+      font-size="430"
+      font-weight="900"
+      fill="#000000"
+    >G</text>
+  </g>
+
+  <!-- Brand text (black) -->
+  <text
+    x="512"
+    y="760"
+    text-anchor="middle"
+    font-family="Montserrat, Arial, sans-serif"
+    font-size="88"
+    font-weight="700"
+    letter-spacing="6"
+    fill="#000000"
+  >OLYMPIC GURU</text>
+</svg>
